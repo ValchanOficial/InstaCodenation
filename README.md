@@ -1,4 +1,6 @@
 # Mobile First: Instagram
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/c666b18d-4d5e-471e-b27b-fe74274ba20d/deploy-status)](https://app.netlify.com/sites/valchan-instacodenation/deploys)
   
 ## Objetivo:
 Desenvolver uma versão **mobile first** do Instagram utilizando apenas **HTML5** e **CSS3**.
@@ -30,16 +32,6 @@ Neste desafio, você vai praticar os seus conhecimentos em:
 > 
 > Após a instalação, você deverá navegar até o diretório contendo seus arquivos HTML e executar o comando:
 > **`live-server ./[nome-da-pasta ou arquivo html]`**
-
-
-## Dicas:
-* Utilize as tags semânticas do HTML5 onde julgar necessário;
-* Você pode fazer o download do [Normalize CSS](https://necolas.github.io/normalize.css/) e utilizá-lo no projeto para **"normalizar/resetar"** os estilos padrão dos navegadores;
-* Inspecione os elementos do preview do [Instagram Codenation](https://aceleradev-react.netlify.com/aula-02/public/) e descubra como alguns efeitos foram executados.
-* [Guia BEM CSS](http://getbem.com/naming/)
-* [Guia Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/)
-* [Guia HTML5](https://www.w3c.br/pub/Cursos/CursoHTML5/html5-web.pdf)
-* [Guia CSS3](https://www.w3c.br/pub/Materiais/PublicacoesW3C/guia-css-w3cbr.pdf)
 
 ## Screenshots de Referência
 ### Versão Mobile:
